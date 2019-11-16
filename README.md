@@ -11,7 +11,7 @@ This quiz tests the knowledge of geography and gives the user a score on how the
 
 ## Screenshot of Completed Application
 
-![Coding Quiz Demo](/Assets/Quizsnippet.PNG)
+![Geography Quiz]()
 
 ## GitHub Pages Link
 
